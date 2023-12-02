@@ -19,7 +19,7 @@ public class Dia1 {
             b = scanUntilB(line);
             // System.out.println(a);
             // System.out.println(b);
-            System.out.println(a + b + " == " + line + "\n");
+            //System.out.println(a + b + " == " + line + "\n");
             res = a + b + res;
         }
         input.close();
